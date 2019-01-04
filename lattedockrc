@@ -1,0 +1,29 @@
+[DownloadDialog Settings]
+Height 1080=550
+Width 1920=800
+
+[PlasmaRunnerManager]
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaThemeExtended]
+userSetPlasmaThemeRoundness=6
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
+[ScreenConnectors]
+10=eDP1
+
+[UniversalSettings]
+canDisableBorders=false
+currentLayout=My Layout
+downloadWindowSize=800,550
+lastNonAssignedLayout=My Layout
+launchers=
+layoutsColumnWidths=98,85,71,0
+layoutsWindowSize=700,579
+memoryUsage=0
+mouseSensitivity=1
+screenTrackerInterval=2500
+showInfoWindow=true
+version=2
